@@ -7,3 +7,5 @@
 用户名： admin
 
 密码： 123
+
+Followed By: http://eknown.cn/index.php/spring-boot/oauth2-sso.html
